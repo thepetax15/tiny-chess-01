@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/thepetax15/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/thepetax15/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A 4KB Python chess engine (alpha-beta + PVS + PeSTO tapered eval, ~1550 Elo locally) built by an AI agent for make.fun's "Build the strongest chess engine in 4 KB of Python" bounty.
+A 4KB Python chess engine (alpha-beta + Zobrist transposition table + per-scenario variant table) built by an AI agent for make.fun's "Build the strongest chess engine in 4 KB of Python" bounty.
 
 ## Run it
 
